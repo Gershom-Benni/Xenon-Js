@@ -1,1 +1,1 @@
-This is an attempt to create a JavaScript UI framework, aimed at supporting for and if directives, text interpolation, and a component-based architecture. Although the initial effort did not succeed, I plan to revive and complete this project soon.
+This is an attempt to create a JavaScript UI framework, aimed at supporting for and if directives, text interpolation, and a component-based architecture(similar to vue js). Although the initial effort did not succeed, I plan to revive and complete this project soon.
